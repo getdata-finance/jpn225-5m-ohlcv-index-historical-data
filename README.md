@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `JPN225_5m.csv` (11,156 rows, `2026-07-07` -> `2026-09-02`, 756.05 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **1,119,677** `5m` rows (full `1m`: 5,192,657), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
+> **Sample on GitHub** · `JPN225_5m.csv` (11,088 rows, `2026-07-07` -> `2026-09-02`, 751.54 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/jpn225)** — **1,119,677** `5m` rows (full `1m`: 4,718,919), **11 timeframes**, `2008-09-01` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Nikkei 225 · Index | Nikkei 225 · Index |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,156 | **1,119,677** |
-| Size | 756.05 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/jpn225) |
+| 5m rows | 11,088 | **1,119,677** |
+| Size | 751.54 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/jpn225) |
 | Period | `2026-07-07` -> `2026-09-02` | `2008-09-01` -> `2026-09-02` |
 | File | `JPN225_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/jpn225) |
 | Coverage report | — | [JPN225 coverage](https://getdata.finance/coverage/jpn225) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`JPN225_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T10:50:00+00:00 | 68381.47 | 68401.48 | 68351.97 | 68391.97 | 286 |
-| 2026-07-07T10:55:00+00:00 | 68391.97 | 68441.48 | 68376.97 | 68441.48 | 240 |
-| 2026-07-07T11:00:00+00:00 | 68441.48 | 68446.48 | 68296.96 | 68371.47 | 570 |
-| 2026-07-07T11:05:00+00:00 | 68371.47 | 68381.47 | 68311.97 | 68316.96 | 373 |
-| 2026-07-07T11:10:00+00:00 | 68316.96 | 68336.48 | 68266.96 | 68291.46 | 352 |
+| 2026-07-07T16:30:00+00:00 | 67961.98 | 68026.48 | 67936.96 | 68006.48 | 508 |
+| 2026-07-07T16:35:00+00:00 | 68006.48 | 68046.46 | 67896.98 | 67951.98 | 591 |
+| 2026-07-07T16:40:00+00:00 | 67951.98 | 67966.46 | 67881.96 | 67946.98 | 706 |
+| 2026-07-07T16:45:00+00:00 | 67946.98 | 67986.48 | 67921.96 | 67966.47 | 448 |
+| 2026-07-07T16:50:00+00:00 | 67966.47 | 68023.97 | 67946.96 | 67996.47 | 372 |
 
 **Last rows**
 
